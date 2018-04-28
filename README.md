@@ -27,3 +27,17 @@ Frequency Domain
 - [x] Band Stop - Ideal
 - [x] Band Stop - Gaussian
 - [ ] Band Stop - Butterworth
+
+Morphological Filters
+- [ ] Binary Mask - RGB
+- [ ] Binary Mask - HSV
+- [ ] Square Recognition
+- [ ] Rectangle Recognition
+- [ ] Circle Recognition
+- [ ] Erosion
+- [ ] Dilation
+- [ ] Opening
+- [ ] Closing
+- [ ] Boundary (Beta)
+- [ ] Morphological Smoothing
+- [ ] Morphological Gradie
