@@ -29,15 +29,10 @@ Frequency Domain
 - [ ] Band Stop - Butterworth
 
 Morphological Filters
-- [ ] Binary Mask - RGB
+- [x] Binary Mask - RGB
 - [ ] Binary Mask - HSV
-- [ ] Square Recognition
-- [ ] Rectangle Recognition
-- [ ] Circle Recognition
-- [ ] Erosion
-- [ ] Dilation
-- [ ] Opening
-- [ ] Closing
-- [ ] Boundary (Beta)
-- [ ] Morphological Smoothing
-- [ ] Morphological Gradie
+- [x] Erosion
+- [x] Dilation
+- [x] Opening
+- [x] Closing
+- [x] Boundary (Beta)
