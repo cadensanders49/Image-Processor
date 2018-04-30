@@ -30,9 +30,25 @@ Frequency Domain
 
 Morphological Filters
 - [x] Binary Mask - RGB
-- [ ] Binary Mask - HSV
+- [x] Binary Mask - HSV
 - [x] Erosion
 - [x] Dilation
 - [x] Opening
 - [x] Closing
 - [x] Boundary (Beta)
+- [x] Object Identification
+
+
+HOW TO RUN THE PROGRAM
+
+Option 1
+-Run 'project2' while in the root folder inside of Matlab
+-
+
+Option 2
+-Double click "Image Processor.mlappinstall"
+-
+-Open Image Processor from the Apps tab inside of Matlab
+-
+
+
